@@ -1,2 +1,2 @@
 # TestTaskWarUniverse
-This server for RockPapperSciccors
+This server for RockPaperScissors
